@@ -1,4 +1,4 @@
-const BASE_URL = 'http://88.198.81.92:8088/timesheet/';
+const BASE_URL = 'http://37.27.125.244:8081/timesheet/';
 // export const BASE_URL = 'http://localhost:8080/timesheetapi/';
 // export const BASE_URL = 'http://localhost:8090/timesheet/';
 
